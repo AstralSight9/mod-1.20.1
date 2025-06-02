@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "influx:influx_shard"
+    }
+  },
+  "result": {
+    "item": "influx:influx_block",
+    "count": 1
+  },
+  "show_notification": true
+}

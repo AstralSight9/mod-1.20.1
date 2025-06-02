@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "influx:crystallized_influx"
+    }
+  },
+  "result": {
+    "item": "influx:crystallized_influx_block",
+    "count": 1
+  },
+  "show_notification": true
+}

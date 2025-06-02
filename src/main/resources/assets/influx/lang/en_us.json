@@ -1,0 +1,10 @@
+{
+  "item.influx.crystallized_influx": "Crystallized Influx",
+  "item.influx.influx_shard": "Influx Shard",
+
+  "block.influx.influx_block": "Block of Influx",
+  "block.influx.crystallized_influx_block": "Block of Crystallized Influx",
+  "block.influx.influx_ore": "Influx Ore",
+
+  "creativetab.influx": "Influx"
+}
